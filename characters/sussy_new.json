@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pain left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pain down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pain up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pain right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				10
+			],
+			"anim": "attack",
+			"fps": 50,
+			"name": "pain attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pain idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sussy_what_the",
+	"position": [
+		-360,
+		-280
+	],
+	"healthicon": "player_0",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		70
+	],
+	"camera_position": [
+		-480,
+		250
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1.5
+}

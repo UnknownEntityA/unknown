@@ -1,0 +1,656 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					],
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				60093.75,
+				[
+					[
+						"Camera Twist",
+						"0.1",
+						"0.9"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				73875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				74250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				76875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				77250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				80250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				82875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				83250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					],
+					[
+						"Camera_Twist",
+						"",
+						""
+					],
+					[
+						"Cinematics (UnderLap)",
+						"1",
+						"100"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"flashy illusion",
+						"FLASH MF",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06"
+					]
+				]
+			]
+		]
+	}
+}

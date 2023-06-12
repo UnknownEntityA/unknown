@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "player_0d",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "how do you never lose?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep skidi bap bei (im just that good)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "player_0d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh, well lets see if you can keep up with this!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep! (bet!)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(sometimes i wonder why i ended up with such a cute idiot)"
+		}
+	]
+}

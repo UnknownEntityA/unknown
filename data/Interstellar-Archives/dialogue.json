@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "beep ba bep! (get rekt loser!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "pretty sick song actually",
+			"boxState": "normal",
+			"portrait": "player_0d",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "meh",
+			"text": "But you're still gonna die",
+			"boxState": "normal",
+			"portrait": "player_0d",
+			"speed": 0.065,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "anyways lets continue",
+			"boxState": "normal",
+			"portrait": "player_0d",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "bip (ok)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.14,
+			"sound": ""
+		}
+	]
+}

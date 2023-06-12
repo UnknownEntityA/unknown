@@ -1,0 +1,59 @@
+{
+	"storyName": "funkin' at the skeld",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "player0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Interstellar-Archives",
+			"player_0",
+			[
+				86,
+				255,
+				100
+			]
+		],
+		[
+			"Archival-Breakdown",
+			"player_0",
+			[
+				86,
+				255,
+				100
+			]
+		],
+		[
+			"Archival-Regret",
+			"parasite 0",
+			[
+				166,
+				255,
+				160
+			]
+		],
+		[
+			"Blooming-Archive",
+			"andromeda",
+			[
+				226,
+				193,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Admin Room",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pain left"
+		},
+		{
+			"offsets": [
+				2,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pain down"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pain up"
+		},
+		{
+			"offsets": [
+				-140,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pain right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "pain idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/parasite_0",
+	"position": [
+		-670,
+		-1240
+	],
+	"healthicon": "parasite 0",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		219,
+		170
+	],
+	"camera_position": [
+		-2150,
+		-820
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 4.7
+}

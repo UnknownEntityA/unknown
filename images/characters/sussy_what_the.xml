@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sussy_what_the.png">
+<SubTexture name="pain down0000" x="0" y="0" width="612" height="375" frameX="-397" frameY="-497" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain down0001" x="612" y="0" width="628" height="366" frameX="-391" frameY="-506" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain down0002" x="1240" y="0" width="542" height="351" frameX="-484" frameY="-521" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain down0003" x="1782" y="0" width="544" height="353" frameX="-490" frameY="-519" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain idle0000" x="0" y="375" width="498" height="357" frameX="-436" frameY="-503" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain idle0001" x="498" y="375" width="524" height="359" frameX="-438" frameY="-513" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain idle0002" x="1022" y="375" width="519" height="358" frameX="-438" frameY="-510" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain idle0003" x="1541" y="375" width="512" height="354" frameX="-438" frameY="-510" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain idle0004" x="0" y="734" width="504" height="352" frameX="-437" frameY="-510" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain left0000" x="504" y="734" width="654" height="335" frameX="-286" frameY="-519" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain left0001" x="1158" y="734" width="651" height="335" frameX="-292" frameY="-519" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain left0002" x="1809" y="734" width="639" height="336" frameX="-300" frameY="-518" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain left0003" x="0" y="1086" width="621" height="338" frameX="-310" frameY="-517" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain right0000" x="621" y="1086" width="545" height="334" frameX="-504" frameY="-520" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain right0001" x="1166" y="1086" width="539" height="337" frameX="-514" frameY="-517" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain right0002" x="1705" y="1086" width="533" height="337" frameX="-522" frameY="-517" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain right0003" x="0" y="1424" width="527" height="338" frameX="-530" frameY="-517" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain up0000" x="527" y="1424" width="473" height="344" frameX="-441" frameY="-501" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain up0001" x="1000" y="1424" width="471" height="339" frameX="-442" frameY="-506" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain up0002" x="1471" y="1424" width="470" height="333" frameX="-442" frameY="-512" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain up0003" x="0" y="1768" width="468" height="327" frameX="-443" frameY="-518" frameWidth="1461" frameHeight="843" />
+<SubTexture name="pain attack0000" x="468" y="1768" width="601" height="336" frameX="-301" frameY="-526" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain attack0001" x="1069" y="1768" width="552" height="343" frameX="-429" frameY="-526" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain attack0002" x="1621" y="1768" width="548" height="328" frameX="-446" frameY="-526" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain attack0003" x="0" y="2111" width="482" height="416" frameX="-469" frameY="-438" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain attack0004" x="482" y="2111" width="392" height="482" frameX="-490" frameY="-372" frameWidth="1351" frameHeight="843" />
+<SubTexture name="pain attack0005" x="874" y="2111" width="364" height="482" frameX="-512" frameY="-372" frameWidth="1351" frameHeight="843" />
+</TextureAtlas>
